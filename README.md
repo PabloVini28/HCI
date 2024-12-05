@@ -1,5 +1,4 @@
-# 🌟 Introduction to Human-Computer Interaction (HCI) 🌟
-  ### Welcome to the Human-Computer Interaction (HCI) repository! 🖥️✨ HCI is a multidisciplinary field that focuses on the design, evaluation, and implementation of user-friendly and efficient systems. It's all about creating interfaces that empower users and make technology accessible, enjoyable, and effective! 🚀
+# Human-Computer Interaction (HCI) 🚀
 
 ## 📚 What You'll Learn in HCI
   - 🔍 Understanding Users
