@@ -18,5 +18,8 @@
   - 🌍 Accessibility and inclusive design
   - 🕶️ Virtual Reality (VR) and Augmented Reality (AR)
   
-## STUDENT 👥
+## Student 👥
   - Pablo Vinicios <a href="https://github.com/PabloVini28" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white&color=black"></a>
+
+## Book used during the course 📖
+  - INTERAÇÃO HUMANO-COMPUTADOR E EXPERIÊNCIA DO USUÁRIO - Simone D. J. Barbosa 
