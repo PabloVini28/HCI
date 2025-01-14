@@ -1,4 +1,4 @@
-# HCI Final Project
+# HCI Final Project 🤖
 
 ## Team 👥
   - Pablo Vinicios
