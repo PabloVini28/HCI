@@ -1,6 +1,6 @@
 # HCI Final Project
 
-## Team: 
+## Team 👥
   - Pablo Vinicios
   - Pedro Nóbrega
   - David Silva
